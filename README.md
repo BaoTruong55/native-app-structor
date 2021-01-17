@@ -2,7 +2,6 @@
 structor of code
 Giải thích cách bố cục
 
-
 assets chứa các resourses cho dự án
 
 
